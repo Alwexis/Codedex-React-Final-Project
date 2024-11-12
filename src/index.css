@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Silver";
+  src: url("/fonts/Silver.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pixeloid Mono";
+  src: url("/fonts/PixeloidMono.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pixeloid";
+  src: url("/fonts/PixeloidSans.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Pixeloid";
+  src: url("/fonts/PixeloidSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
